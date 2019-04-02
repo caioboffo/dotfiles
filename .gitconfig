@@ -1,0 +1,14 @@
+[user]
+	name = Caio B. Silva
+	email = caioboffo@gmail.com
+[core]
+	editor = emacs25
+	excludesfile = GPATH
+[alias]
+	b = branch
+	c = checkout
+	s = status
+	ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+	ll = log --graph --oneline
+	la = log --graph --oneline --all
+    
