@@ -1,9 +1,3 @@
-[user]
-	name = Caio B. Silva
-	email = caioboffo@gmail.com
-[core]
-	editor = emacs25
-	excludesfile = GPATH
 [alias]
 	b = branch
 	c = checkout
